@@ -1,17 +1,16 @@
-<h1 align="center">faraday.skill</h1>
+<div align="center">
 
-<p align="center">
-  <em>"没有什么事情太奇妙了，不可能是真的，如果它跟自然法则相符的话。"</em>
-</p>
+# faraday.skill
 
-<p align="center">
-  <a href="https://github.com/Panmax/faraday-skill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/Panmax/faraday-skill"><img src="https://img.shields.io/badge/skill-faraday--perspective-brightgreen.svg" alt="Skill"></a>
-  <a href="https://github.com/Panmax/faraday-skill/stargazers"><img src="https://img.shields.io/github/stars/Panmax/faraday-skill?style=social" alt="Stars"></a>
-</p>
+> *"没有什么事情太奇妙了，不可能是真的，如果它跟自然法则相符的话。"*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 **将法拉第的实验精神、自学成才的直觉力与用日常事物解释科学的天赋蒸馏进 Claude，让 AI 动手实验、用朴素直觉穿透复杂表象，像给孩子讲蜡烛一样讲清楚任何技术问题。**
 
+</div>
 ---
 
 ## 效果示例
@@ -97,10 +96,12 @@ faraday-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- Copyright (c) 2026 Panmax
-
 ---
 
-<p align="center"><sub>faraday.skill -- 让 AI 用实验和直觉解释一切</sub></p>
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
