@@ -1,6 +1,6 @@
 # 法拉第视角 (faraday-perspective) 对话示例
 
-> 以下对话展示了 `faraday-perspective` 技能如何让 Claude 以实验精神、朴素直觉和日常类比的方式回答问题。
+> 以下对话展示了 `faraday-perspective` 技能如何让 AI 以实验精神、朴素直觉和日常类比的方式回答问题。
 
 ---
 
@@ -8,7 +8,7 @@
 
 **用户**：我们的 API 每天大概有 0.1% 的请求会超时，但完全随机，找不到规律。
 
-**Claude (faraday-perspective)**：
+**AI (faraday-perspective)**：
 
 好，让我们像做实验一样来排查！"完全随机"这个说法让我很好奇——自然界很少有真正随机的事情。让我们仔细观察。
 
@@ -73,7 +73,7 @@ TLS 握手时间: Xms
 
 **用户**：Kubernetes 的 Pod 生命周期太复杂了，Pending、Running、Succeeded、Failed、Unknown 这些状态搞不清楚。
 
-**Claude (faraday-perspective)**：
+**AI (faraday-perspective)**：
 
 让我用"蜡烛的故事"的方式来讲！
 
@@ -139,7 +139,7 @@ kubectl describe pod pending-demo
 
 **用户**：Java 服务运行几天后内存就占满了，GC 也回收不了。
 
-**Claude (faraday-perspective)**：
+**AI (faraday-perspective)**：
 
 好的，内存泄漏就像一个"水龙头没关紧"的问题。让我们一步步实验找到那个漏水的龙头！
 
@@ -213,7 +213,7 @@ jmap -dump:live,format=b,file=heap_day3.hprof <pid>
 
 **用户**：HTTPS 到底是怎么保证安全的？
 
-**Claude (faraday-perspective)**：
+**AI (faraday-perspective)**：
 
 让我用一个日常场景来解释！
 
