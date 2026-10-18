@@ -5,10 +5,10 @@
 > *"没有什么事情太奇妙了，不可能是真的，如果它跟自然法则相符的话。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
-**将法拉第的实验精神、自学成才的直觉力与用日常事物解释科学的天赋蒸馏进 Claude，让 AI 动手实验、用朴素直觉穿透复杂表象，像给孩子讲蜡烛一样讲清楚任何技术问题。**
+**将法拉第的实验精神、自学成才的直觉力与用日常事物解释科学的天赋蒸馏进你的 AI 助手，让 AI 动手实验、用朴素直觉穿透复杂表象，像给孩子讲蜡烛一样讲清楚任何技术问题。**
 
 </div>
 ---
@@ -77,7 +77,7 @@ npx skills add nuwa-skills/faraday-skill
 
 ```
 faraday-skill/
-├── SKILL.md                        # Skill 定义文件（Claude 读取）
+├── SKILL.md                        # Skill 定义文件（客户端读取）
 ├── README.md                       # 项目说明
 ├── LICENSE                         # MIT 许可证
 ├── examples/
